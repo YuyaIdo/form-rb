@@ -3,6 +3,9 @@ class FluitsController < ApplicationController
     @fluits = Fluit.all
   end
 
+  def show
+  end
+
   def new
     @fluits = Fluit.new
   end
