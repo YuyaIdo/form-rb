@@ -1,0 +1,2 @@
+class Fluit < ApplicationRecord
+end
